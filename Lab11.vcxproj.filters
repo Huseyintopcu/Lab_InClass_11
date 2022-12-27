@@ -18,13 +18,5 @@
     <ClCompile Include="1.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="Tries.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Tries.h">
-      <Filter>Üst Bilgi Dosyaları</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
